@@ -1,0 +1,6 @@
+enum MySharedKeys{
+
+  keyTheme,
+  login
+}
+
